@@ -1,0 +1,62 @@
+[
+{"id":"1",
+   "img_header_footer":[
+    {
+        "nombre_img": "logo_pop_cafe",
+        "img": "https://i.ibb.co/BnsrdFw/logo.png"
+    },
+    {
+        "nombre_img": "logo_esquinas",
+        "img": "https://i.ibb.co/kB17hmn/img008.png"
+    },
+    {
+        "nombre_img": "logo_twitter",
+        "img": "https://i.ibb.co/pdn7MnH/twitter.png"
+    },
+    {
+        "nombre_img": "logo_instagram",
+        "img": "https://i.ibb.co/RQBCyXq/instagram.png"
+    },
+    {
+        "nombre_img": "logo_facebook",
+        "img": "https://i.ibb.co/LdKqHT1/facebook.png"
+    }
+     ]
+  },
+   {"id":"2",
+   "img_fondos":[
+    {
+        "nombre_img": "fondo",
+        "img": "https://i.ibb.co/VCT0mHw/fondo.jpg"
+    }
+     ]
+   },
+  {"id":"3",
+   "img_productos":[
+    {
+        "nombre_img": "cafe_americano",
+        "img": "https://i.ibb.co/0s2s6zN/cafe-americano.jpg"
+    },
+    {
+        "nombre_img": "cafe_mocha",
+        "img": "https://i.ibb.co/4VKgwm3/cafe-mocha.jpg"
+    },
+    {
+        "nombre_img": "cafe_latte",
+        "img": "https://i.ibb.co/kVLQvbQ/cafe-latte.jpg"
+    },
+    {
+        "nombre_img": "cafe_machiato",
+        "img": "https://i.ibb.co/Fb32hs9/cafe-machiato.jpg"
+    },
+    {
+        "nombre_img": "cafe_expreso",
+        "img": "https://i.ibb.co/k1XszXR/cafe-expreso.jpg"
+    },
+    {
+        "nombre_img": "cafe_irlandes",
+        "img": "https://i.ibb.co/NSgV4Hm/cafe-irlandes.jpg"
+    }
+     ]
+  }
+]
