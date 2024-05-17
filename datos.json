@@ -37,9 +37,21 @@
         "nombre_img": "cafe_americano",
         "img": "https://i.ibb.co/0s2s6zN/cafe-americano.jpg"
     },
+   {   
+         "nombre_img": "cafe_cappucino"
+         "img":"https://i.ibb.co/yYzK0Bd/cafe-cappucino.jpg"
+   },
+   {
+        "nombre_img": "cafe_expreso",
+        "img": "https://i.ibb.co/k1XszXR/cafe-expreso.jpg"
+    },
+      {
+        "nombre_img": "cafe_helado",
+        "img": "https://i.ibb.co/MZmr1XQ/cafe-helado.jpg"
+    },
     {
-        "nombre_img": "cafe_mocha",
-        "img": "https://i.ibb.co/4VKgwm3/cafe-mocha.jpg"
+        "nombre_img": "cafe_irlandes",
+        "img": "https://i.ibb.co/NSgV4Hm/cafe-irlandes.jpg"
     },
     {
         "nombre_img": "cafe_latte",
@@ -50,13 +62,10 @@
         "img": "https://i.ibb.co/Fb32hs9/cafe-machiato.jpg"
     },
     {
-        "nombre_img": "cafe_expreso",
-        "img": "https://i.ibb.co/k1XszXR/cafe-expreso.jpg"
-    },
-    {
-        "nombre_img": "cafe_irlandes",
-        "img": "https://i.ibb.co/NSgV4Hm/cafe-irlandes.jpg"
+        "nombre_img": "cafe_mocha",
+        "img": "https://i.ibb.co/4VKgwm3/cafe-mocha.jpg"
     }
+    
      ]
   }
 ]
